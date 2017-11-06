@@ -1,13 +1,15 @@
 # Youtube-Video-Box-App
-Play Youtube Video running in any tab on any screen of your system.
+Play Youtube Video running in any tab/window of your Chrome browser on any screen of your computer.
 
-This is a Chrome app which works with the popular YouTube Video Box Chrome Extension (https://chrome.google.com/webstore/detail/youtube-video-box/dokdgfodmeaaamnbpbaomjcidljofpio?hl=en) to show Youtube Videos running on any tab/window of your browser on any screen of your computer so that you can continue your work while watching video. The video box can be resized and dragged to any where on the screen. Works with all major OSs.
+This is a Chrome app which adds more feature on the popular [YouTube Video Box](https://chrome.google.com/webstore/detail/youtube-video-box/dokdgfodmeaaamnbpbaomjcidljofpio?hl=en) Chrome Extension to show Youtube Videos running on any tab/window of your Chrome browser on any screen of your computer so that you can continue your work while watching your favourite video. The video box can be resized and dragged to any where on your computer. Works with all major OSs.
 
-**Since chrome web store has removed the support for chrome apps on Windows, Mac and Linux platforms, you will have install it manually which would not take much effort. Chrome OS users can directly install it from Here.**
+**Since chrome web store has removed the support for chrome apps on Windows, Mac and Linux platforms, you will have to install it manually which would not take much effort. Chrome OS users can directly install it from [Here](https://chrome.google.com/webstore/detail/youtube-video-box-app/dgckcadkopmgllnndmkjheafhkcjmcgc).**
 
 Steps to install the app:
-* Downlaod the app (.crx file) by clicking on the download button above.
-* Now go to chrome://extensions/, you must see a page showing all your installed apps.
+* Click the Youtube Video Box App.crx link above.
+* Downlaod the app (.crx file) by clicking on the download button.
+* Now go to chrome://extensions/ page on your browser, you must see a page showing all your installed apps.
 * Now drag and drop the downloaded .crx file on chrome://extensions/ page.
 * Select add app when prompted.
-* That's it, Now enjoy Youtube Video Box.
+* Make the Video Box open in the App as your default preference by changing the settings on options page.
+* That's it, Now enjoy Youtube Video Box App.
